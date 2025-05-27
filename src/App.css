@@ -1,0 +1,69 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #282c34;
+}
+
+.Link-nav{
+  margin-right: 12px;
+  background-color: rgb(195, 45, 45);
+  border: 1px;
+  border-color: rgb(164, 22, 22);
+  border-radius: 10%;
+  padding: 0.5%;
+}
+.Link-nav:hover{
+  margin-right: 12px;
+  background-color: rgb(195, 45, 45);
+  border: 1px;
+  border-color: rgb(164, 22, 22);
+  border-radius: 10%;
+  padding: 1%;
+}
+
+.app {
+  background-color: #282c34;
+  color: rgb(250, 129, 129);
+}
+
+a {
+  color: white;
+}
+
+.table-exercise {
+  border: 3px solid rgb(202, 200, 89);
+  width: 100%;
+  margin-right: 20px;
+  margin-bottom: 40px;
+}
+
+.table-exercise th {
+  border: 1px solid rgb(12, 105, 12);
+  padding: 5px;
+}
+.table-exercise td {
+  border: 1px dashed rgb(10, 161, 10);
+  padding: 2px;
+}
+
+.mybutton {
+  background-color: antiquewhite;
+  margin: 10px;
+  padding: 1%;
+}
+
+.mybutton:hover {
+  background-color: antiquewhite;
+  margin: 10px;
+  padding: 1%;
+  border-radius: 55%;
+}
+
+.myinput {
+  background-color: tan;
+  border-radius: 12%;
+  font-size: medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
